@@ -1,3 +1,3 @@
 # Content Placeholder
 
-![Content Placeholder](content-placeholder.png)
+![Content Placeholder](content-placeholder.gif)
